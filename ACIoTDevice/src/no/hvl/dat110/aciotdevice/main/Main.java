@@ -13,7 +13,7 @@ import no.hvl.dat110.aciotdevice.pins.Wiring;
 import no.hvl.dat110.aciotdevice.ui.LED;
 import no.hvl.dat110.aciotdevice.ui.PIRSensor;
 import no.hvl.dat110.aciotdevice.ui.PushButton;
-import javafx.scene.control.Button;
+//import javafx.scene.control.Button;
 
 public class Main extends Application {
 
